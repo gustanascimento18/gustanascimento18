@@ -6,8 +6,8 @@ I'm student fullstack web developer. I spend most of time coding or watching tec
 
 <div> 
   <a href="https://instagram.com/gustavonasciment_o" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/wdsonhenrique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustanascimento18" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:gustanascimento18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
   
   * 🔭 I'm currently student about Web Development
@@ -29,12 +29,12 @@ I'm student fullstack web developer. I spend most of time coding or watching tec
   
   
 &nbsp;
-<div>
+<!-- <div>
   <a href="https://github.com/gustanascimento18">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustanascimento18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustanascimento18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvngwdson&layout=compact&langs_count=16&theme=dracula"/> -->
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustanascimento18&layout=compact&langs_count=16&theme=dracula"/>
+</div> -->
 
   ##
 <!---
